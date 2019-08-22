@@ -1,0 +1,9 @@
+Target point : (77.850000, 11.764706, 41.400000)
+Arm angle : -90
+Picked up 1 work(s).
+Target point : (55.350000, 11.764706, 20.700000)
+Arm angle : -90
+Picked up 1 work(s).
+Target point : (20.250000, 11.764706, 78.750000)
+Arm angle : -90
+Picked up 3 work(s).

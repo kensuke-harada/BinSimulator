@@ -1,0 +1,23 @@
+Target point : (15.000000, 31.306110, 35.000000)
+Arm angle : 136
+Picked up 2 work(s).
+Target point : (15.000000, 0.000000, -25.000000)
+Arm angle : 128
+Picked up 0 work(s).
+Target point : (-15.000000, 0.000000, 25.000000)
+Arm angle : 10
+Picked up 1 work(s).
+Target point : (25.000000, 30.505810, 5.000000)
+Arm angle : 107
+Picked up 0 work(s).
+Target point : (35.000000, 0.000000, 25.000000)
+Arm angle : 8
+Picked up 2 work(s).
+Target point : (55.000000, 24.268269, -15.000000)
+Arm angle : 37
+Picked up 0 work(s).
+Target point : (-25.000000, 35.278889, -15.000000)
+Arm angle : 167
+Picked up 0 work(s).
+Target point : (-15.000000, 11.830578, -25.000000)
+Arm angle : 66

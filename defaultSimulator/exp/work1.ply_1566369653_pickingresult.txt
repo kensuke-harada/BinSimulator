@@ -1,0 +1,8 @@
+Target point : (52.500000, 0.000000, 22.500000)
+Arm angle : 77
+Picked up 3 work(s).
+Target point : (97.500000, 0.000000, -97.500000)
+Arm angle : 20
+Outside the box.
+Target point : (-37.500000, 0.000000, -37.500000)
+Arm angle : 68
