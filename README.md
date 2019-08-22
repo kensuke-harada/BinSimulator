@@ -1,2 +1,2 @@
 # BinSim
-Bin-picking Simulator
+Bin-picking Simulator run on Windows
